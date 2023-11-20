@@ -2,10 +2,10 @@
 Me chamo Gabriela Singulani Marques, mas pode me chamar de Gabi. Sou estudante de Ciência da Computação da UFJF e ultilizo esse perfil para trabalhos e projetos da faculdade.
 
 ## Linguagens de Programação
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabisnb)](https://github.com/gabisnb/github-readme-stats)
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabisnb)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabisnb's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabisnb)](https://github.com/gabisnb/github-readme-stats)
 
 <!--
 **gabisnb/gabisnb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

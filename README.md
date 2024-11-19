@@ -1,5 +1,5 @@
 ### Sobre mim
-Me chamo Gabriela Singulani Marques, mas pode me chamar de Gabi. Sou estudante de Ciência da Computação da UFJF e ultilizo esse perfil para trabalhos e projetos da faculdade.
+Me chamo Gabriela Singulani, mas pode me chamar de Gabi. Sou estudante de Ciência da Computação da UFJF e ultilizo esse perfil para trabalhos e projetos da faculdade.
 
 ## Linguagens de Programação
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabisnb&layout=compact)](https://github.com/gabisnb/github-readme-stats)

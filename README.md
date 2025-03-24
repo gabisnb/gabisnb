@@ -12,6 +12,6 @@ Me chamo Gabriela Singulani, mas pode me chamar de Gabi. Sou estudante de Ciênc
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,cs,unity,py,pytorch,tensorflow,java,spring,postgres,js,ts,html,react,tailwind,styledcomponents,nestjs,prisma,figma,latex" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,cs,unity,py,pytorch,tensorflow,java,spring,postgres,js,ts,html,css,react,tailwind,styledcomponents,nestjs,prisma,figma,latex" />
   </a>
 </p>

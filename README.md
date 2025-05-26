@@ -8,7 +8,7 @@ Me chamo Gabriela Singulani, mas pode me chamar de Gabi. Sou estudante de Ciênc
 - Desenvolvimento de sistemas web
 
 ## Linguagens de Programação
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabisnb&layout=compact)](https://github.com/gabisnb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabisnb&exclude_repo=Repositorio-DCC065,TrabalhoCG-Mobile,Trabalho-OO&hide=jupyter%20notebook&theme=algolia&show_icons=true)](https://github.com/gabisnb/github-readme-stats)
 
 <p align="center">
   <a href="https://skillicons.dev">

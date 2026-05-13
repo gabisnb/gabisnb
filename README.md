@@ -10,7 +10,7 @@ Me chamo Gabriela Singulani, mas pode me chamar de Gabi. Sou estudante de Ciênc
 ## Linguagens de Programação
 <p align="center">
   <a href="https://github.com/gabisnb/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabisnb&exclude_repo=Repositorio-DCC065,TrabalhoCG-Mobile,Trabalho-OO&hide=jupyter%20notebook&theme=algolia&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gabisnb&exclude_repo=Repositorio-DCC065,TrabalhoCG-Mobile,Trabalho-OO&hide=jupyter%20notebook&theme=algolia&show_icons=true" />
   </a>
 </p>
 <p align="center">
